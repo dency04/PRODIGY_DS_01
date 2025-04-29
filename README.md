@@ -14,6 +14,10 @@ In this task, I analyzed the 2022 population data for all countries and visualiz
 - Sorting and filtering top records
 - Plot formatting and annotation
 
+## Output
+![Population_Chart](https://github.com/user-attachments/assets/306d7e90-ca8e-4794-83c0-5908551f9976)
+
+
 ## Dataset
 https://data.worldbank.org/indicator/SP.POP.TOTL
 
